@@ -1,0 +1,1 @@
+# bazel_rules_docker_bug_repro
